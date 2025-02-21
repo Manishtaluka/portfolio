@@ -1,0 +1,176 @@
+body{
+    height:200vh;
+    background-image:url("https://res.cloudinary.com/dds1nwc3m/image/upload/v1729258536/360_F_462681022_kKv7FqMJD3ouD6LUYdDDkpKyZoh843P1_imqtxn.jpg");
+    background-repeat:repeat;
+    background-size:100%;
+    
+}
+.nav-bar{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-family: "Poppins", sans-serif; 
+    font-weight: bold;
+    color:white;
+    font-size: 20px;
+    
+    
+}  
+
+.nav-bar-left{
+    padding-left: 70px;
+}
+.nav-bar-right{
+    padding-right: 10px;
+    display:flex;
+    flex-direction:row;
+    align-items: center;
+}
+.details{
+    padding:5px;
+    font-family: "Poppins", sans-serif; 
+    font-weight: bold;
+    color:white;
+}
+.home{
+    display:flex;
+    height:50vh;
+    flex-direction: row;
+    justify-content: space-between;
+   
+    margin:20px;
+
+}
+.image{
+    height:250px;
+    padding-left: 50px;
+}
+.name{ 
+    font-weight:bold;
+    padding-left: 140px;
+    color: aliceblue;
+    font-size: 15px;
+    font-family:"Poppins", sans-serif; 
+    
+}
+.matter-left{
+    padding-top:35px;
+    
+}
+.matter-right{
+    text-align: left;
+    padding-left: 150px;
+    padding-top:100px;
+    padding-right:20px;
+    font-family:"Poppins", sans-serif; 
+    font-style: bold;
+    color: aliceblue;
+}
+.hobbies{
+    padding:60px;
+    text-align: center;
+    color: aliceblue;
+}
+.my-hobbies{
+    display: flex;
+    flex-direction: row;
+       
+}
+.hobbies-list{
+   
+    margin:5px;
+    padding:20px;
+    margin:40px;
+}
+
+.heading{
+    color:white;
+    font-family:"Poppins", sans-serif; 
+    font-style: bold;
+    letter-spacing: 1px;
+
+}
+.para{
+    color:white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+.par{
+    color:white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+.contact{
+    text-align: center;
+    color:white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+
+
+.image-icon{
+    height:50px;
+    padding:10px;
+}
+.icons{
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+   
+
+}
+.social-icon{
+    padding-left: 570px;
+}
+.hobbies-list:hover{
+    border-radius: 20px;
+    box-shadow:10px 10px 50px rgb(143, 225, 80); 
+}
+.details:hover{
+    color:rgb(173, 161, 93);
+    font-size: 22px;
+    
+
+}
+.para:hover{
+    color: rgb(155, 249, 92);
+    
+}
+.par:hover{
+    color: rgb(155, 249, 92);
+    font-size: 20px;
+}
+p:hover{
+    color:rgb(173, 161, 93);
+    
+
+
+}
+.skills{
+    text-align: center;
+    color:white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+.pa{
+    list-style-type: none;
+    
+    
+    overflow:hidden;
+    padding:10px; 
+}
+li a{
+    color:white;
+    text-decoration: none;
+    padding:10px;
+    font-size: 20px;
+}
+li a:hover{
+      
+    color: rgb(155, 249, 92);
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+    
+
+}
