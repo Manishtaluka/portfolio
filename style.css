@@ -78,9 +78,9 @@ body{
 }
 .hobbies-list{
    
-    margin:5px;
+
     padding:10px;
-    margin:40px;
+    margin:45px;
 }
 
 .heading{
@@ -147,13 +147,6 @@ p:hover{
 }
 
 .pa{
-    list-style-type:disc;
-<<<<<<< HEAD
-=======
-    
-    
->>>>>>> 3f794a3696895cbe095e22b006cd26bac5aca0ff
-    overflow:hidden;
     padding:10px; 
 }
 li a{
