@@ -1,6 +1,6 @@
 body{
     height:200vh;
-    background-image:url("https://res.cloudinary.com/dds1nwc3m/image/upload/v1729258536/360_F_462681022_kKv7FqMJD3ouD6LUYdDDkpKyZoh843P1_imqtxn.jpg");
+    background-image:url("https://wallpapercave.com/wp/wp2727713.jpg");
     background-repeat:repeat;
     background-size:100%;
     
@@ -79,7 +79,7 @@ body{
 .hobbies-list{
    
     margin:5px;
-    padding:20px;
+    padding:10px;
     margin:40px;
 }
 
@@ -120,7 +120,7 @@ body{
 
 }
 .social-icon{
-    padding-left: 570px;
+    padding-left: 425px;
 }
 .hobbies-list:hover{
     border-radius: 20px;
@@ -142,20 +142,12 @@ body{
 }
 p:hover{
     color:rgb(173, 161, 93);
-    
-
+      font-weight: bold;
 
 }
-.skills{
-    text-align: center;
-    color:white;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-weight: bold;
-}
+
 .pa{
-    list-style-type: none;
-    
-    
+    list-style-type:disc;
     overflow:hidden;
     padding:10px; 
 }
